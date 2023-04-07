@@ -26,6 +26,17 @@ poetry add requests
 poetry install
 
 poetry run hypermodern-python # from pyproject.toml [tool.poetry.scripts]
+```
 
+```bash 
+poetry add --dev pytest
+poetry run pytest
+# poetry add --dev coverage[toml] pytest-cov
+poetry add --dev coverage pytest-cov
+poetry run pytest --cov
 
+# pip install --user --upgrade nox
+pipx install nox
+pipx ensurepath
+/Users/user/.local/bin/nox # FAILS
 ```
