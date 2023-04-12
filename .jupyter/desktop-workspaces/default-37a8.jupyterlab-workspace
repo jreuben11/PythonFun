@@ -1,1 +1,3 @@
+
 {"data":{"layout-restorer:data":{"main":{"dock":{"type":"tab-area","currentIndex":1,"widgets":["notebook:python-basics.ipynb"]},"current":"notebook:python-basics.ipynb"},"down":{"size":0,"widgets":[]},"left":{"collapsed":false,"current":"filebrowser","widgets":["filebrowser","running-sessions","git-sessions","@jupyterlab/toc:plugin","extensionmanager.main-view"]},"right":{"collapsed":true,"widgets":["jp-property-inspector","debugger-sidebar"]},"relativeSizes":[0.3343517639649149,0.6656482360350852,0]},"file-browser-filebrowser:cwd":{"path":""},"notebook:python-basics.ipynb":{"data":{"path":"python-basics.ipynb","factory":"Notebook"}}},"metadata":{"id":"default"}}
+
